@@ -1,6 +1,6 @@
 # Donations
 
-Welcome to the Donations repository for Fida. This project aims to study donation behaviors under different treatments.
+Welcome to the Donations Experiment. This project aims to study donation behaviors under different treatments.
 
 ## Table of Contents
 
@@ -26,34 +26,6 @@ Live demo is available at [https://vincenzomanto.github.io/Donations/](https://v
 - Analyze the impact of different treatments
 - Collect and manage data
 - Generate reports
-
-## Installation
-
-To install the project, follow these steps:
-
-1. Clone the repository:
-  ```sh
-  git clone https://github.com/VincenzoManto/donations.git
-  ```
-2. Navigate to the project directory:
-  ```sh
-  cd donations
-  ```
-3. Install dependencies:
-  ```sh
-  npm install --force
-  ```
-
-## Usage
-
-To start the application, run:
-```sh
-npm start
-```
-
-## Contributing
-
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
